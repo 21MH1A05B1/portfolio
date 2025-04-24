@@ -4,8 +4,8 @@ This is my personal, human-touched, story-driven portfolio built using **Next.js
 
 ## 🚀 Live Project
 
-[Live Site](https://your-vercel-link.vercel.app)  
-*(Replace with your actual Vercel deployment link)*
+https://anjaniportfolio.vercel.app/
+
 
 ## 📁 GitHub Repo
 
