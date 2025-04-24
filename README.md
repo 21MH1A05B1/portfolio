@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌟 Anjani Maredugu – Personal Portfolio
 
-## Getting Started
+This is my personal, human-touched, story-driven portfolio built using **Next.js** and **Tailwind CSS** as part of the Umbrella Room Ventures Frontend Intern task.
 
-First, run the development server:
+## 🚀 Live Project
+
+[Live Site](https://your-vercel-link.vercel.app)  
+*(Replace with your actual Vercel deployment link)*
+
+## 📁 GitHub Repo
+
+https://github.com/21MH1A05B1/portfolio
+
+---
+
+## 🔧 About This Project
+
+This portfolio reflects not just my technical skills but also who I am as a person and frontend developer. It includes:
+
+- A dynamic **Homepage** with a theme toggle to reflect my current "mood".
+- A personal **About page** with a short story of how I got into frontend.
+- Two real projects with clean UI, descriptions, and code snippets.
+
+---
+
+## 📌 Projects Featured
+
+### 1. Seamless Travel Planner
+Built using **Flutter** and **Firebase**, this app helps users plan trips collaboratively and efficiently.
+
+### 2. E-Commerce Backend
+A Django-based backend with **JWT authentication**, **Razorpay integration**, and full **admin product management**.
+
+---
+
+## ❤️ Favorite Part of Building This
+
+Creating the mood toggle was super fun — it felt like giving the site a bit of personality! Also, crafting the story on the About page made me reflect on why I love frontend development in the first place.
+
+## 🤯 Hardest Part
+
+Getting the Tailwind dark mode transitions smooth and theme-aware took some trial and error. I handled it by breaking the UI down and testing each state, then using Tailwind’s `dark:` variants smartly.
+
+---
+
+## 📸 Note
+
+All assets and visuals are hand-created — no stock images, no templates, no AI!
+
+---
+
+## 📦 Tech Stack
+
+- Next.js (App Router)
+- Tailwind CSS
+- Vercel for deployment
+
+---
+
+## 🧩 Setup Instructions
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
